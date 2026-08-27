@@ -1,0 +1,7 @@
+Asset_ID,Filename,Type,Priority,Primary_Use
+GD-SOURCE-01,GD-SOURCE-01_Original_Prototype.jpg,Source,5,Original identity source
+GD-ID-01,GD-ID-01_Front_HalfBody.png,Identity,5,Primary face and identity lock
+GD-ID-02,GD-ID-02_Left_ThreeQuarter.png,Identity,5,Left three-quarter identity support
+GD-ID-03,GD-ID-03_Right_ThreeQuarter.png,Identity,5,Right three-quarter identity support
+GD-ID-04,GD-ID-04_FullBody_Standing.png,Identity/Pose,4,Full-body and standing shots
+GD-ID-05,GD-ID-05_Seated_Consultation.png,Identity/Pose,5,Consultation and dialogue shots
