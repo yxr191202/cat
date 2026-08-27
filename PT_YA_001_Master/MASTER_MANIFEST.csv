@@ -1,0 +1,11 @@
+Asset ID,File Name,Category,Description,Use
+PT-YA-ID-01,PT-YA-ID-01_Front_HalfBody.png,Identity,Front half-body identity master,Primary identity lock
+PT-YA-ID-02,PT-YA-ID-02_ThreeQuarter_Seated.png,Identity,Three-quarter seated identity reference,Secondary identity lock
+PT-YA-ID-03,PT-YA-ID-03_FullBody_Standing.png,Identity,Full-body standing reference,Body proportion lock
+PT-YA-POSE-01,PT-YA-POSE-01_Standard_Seated.png,Pose,Standard consultation seated pose,Basic consultation setup
+PT-YA-ACT-01,PT-YA-ACT-01_Holding_Report.png,Action,Holding and reading a report,Report-reading scene
+PT-YA-ACT-02,PT-YA-ACT-02_Handing_Report.png,Action,Handing a report to the doctor,Report handoff scene
+PT-YA-ACT-03,PT-YA-ACT-03_Attentive_Listening.png,Action,Attentive listening pose,Doctor-patient dialogue
+PT-YA-ACT-04,PT-YA-ACT-04_Nodding_Understanding.png,Action,Nodding / understanding response,Dialogue reaction shot
+PT-YA-EXP-01,PT-YA-EXP-01_Mild_Anxiety.png,Expression,Mild anxiety expression,Concerned patient shot
+PT-YA-EXP-02,PT-YA-EXP-02_Relaxed.png,Expression,Relaxed expression,Reassured patient shot
